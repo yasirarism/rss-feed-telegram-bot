@@ -6,7 +6,27 @@
       "description": "your bot token",
       "value": ""
     },
-    "UPDATE_INTERVAL": {
+    "API_ID": {
+      "description": "your api id",
+      "value": ""
+    },
+    "API_HASH": {
+      "description": "your api hash",
+      "value": ""
+    },
+    "LOG_CHANNEL": {
+      "description": "ID of log channel",
+      "value": ""
+    },
+    "MAX_INSTANCES": {
+      "description": "Max instances",
+      "value": ""
+    },
+    "FEED_URLS": {
+      "description": "RSS Feed Url",
+      "value": ""
+    },
+    "INTERVAL": {
       "description": "update feeds per seconds",
       "value": "300"
     }
